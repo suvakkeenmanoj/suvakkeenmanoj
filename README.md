@@ -1,4 +1,4 @@
-# Hi, I'm Suvakkeen 👋
+# Hi, I'm Suvakkeen Manoj D👋
 
 I build small systems where the algorithm *is* the product — not bolted on after the UI. Right now that means game logic, applied DSA, and the occasional full-stack build when a project needs one. If you're looking for someone who can turn a textbook algorithm into something that actually runs and feels good to use, that's the work I do.
 
